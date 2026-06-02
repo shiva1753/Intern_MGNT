@@ -1,37 +1,75 @@
-# Team Members
+# USERS.md
 
-| Name          | Roll Number | Email ID                                                        |
-| ------------- | ----------- | --------------------------------------------------------------- |
-| Shivansh Rana | 102315207   | srana_be23@thapar.edu                                           |
-| Nandan Verma  | 102315204   | nverma_be23@thapar.edu                                          |
+# Team Information
+
+## Team Members
+
+| Name          | Roll Number | Email ID          |
+| ------------- | ----------- | ----------------- |
+| Shivansh Rana | 102315207   | srana_be23@thapar.edu   |
+| Nandan Verma  | 102315204   | nverma_be23@thapar.edu |
 
 ---
 
-## User Roles
+# User Roles
 
-### Student
-
-Responsibilities:
-
-* Create profile
-* Browse internships
-* Apply for opportunities
-* Track application status
-
-### Recruiter
+## Student
 
 Responsibilities:
 
-* Post internship openings
-* Review applications
-* Shortlist candidates
-* Manage recruitment process
+* Register and Login
+* Browse Internship Opportunities
+* Apply for Internships
+* Track Application Status
 
-### Admin
+## Recruiter
 
 Responsibilities:
 
-* Manage platform users
-* Approve internship postings
-* Generate reports
-* Monitor system activities
+* Create Internship Postings
+* Review Applications
+* Shortlist Candidates
+* Schedule Interviews
+* Update Application Status
+
+## Admin
+
+Responsibilities:
+
+* Manage Users
+* Approve Internship Listings
+* Generate Reports
+* Monitor Platform Activity
+
+---
+
+# Individual Contributions
+
+## Shivansh Rana (102315207)
+
+* Defined project scope and objectives
+* Identified user roles (Student, Recruiter, Admin)
+* Designed platform workflow
+* Created workflow diagram structure
+* Prepared README documentation
+* Defined key platform features
+
+## Nandan Verma (102315204)
+
+* Designed dashboard wireframes
+* Defined MVP (Minimum Viable Product)
+* Prepared USERS.md documentation
+* Organized repository structure
+* Reviewed project documentation and deliverables
+
+---
+
+# Repository Deliverables
+
+* README.md
+* USERS.md
+* MVP.md
+* Workflow Diagram
+* Student Dashboard Wireframe
+* Recruiter Dashboard Wireframe
+* Admin Dashboard Wireframe
